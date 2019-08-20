@@ -28,7 +28,7 @@ let myArray = ['Marvin', 'Ferris', 'Brynn', 'Damian', 'Whitney', 'Leila', 'Franc
 //         }
 //     );
 // }
-//
+
 // main();
 // console.log(myArray.concat);
 
@@ -51,7 +51,7 @@ let myArray = ['Marvin', 'Ferris', 'Brynn', 'Damian', 'Whitney', 'Leila', 'Franc
 // document.getElementById("classwork").innerHTML = [NEW STRING]
 // ```
 
-//
+// NOTE : you never created an object. 
 let fbNames=myArray.toString();
 console.log(fbNames);
 // <h1 style='color:blue;background:red;text-shadow: -2px 2px 2px #000000;'>myArray</h1>
